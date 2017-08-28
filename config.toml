@@ -1,0 +1,7 @@
+baseURL = "https://hungrybirdssquad.github.io"
+languageCode = "en-us"
+title = "Blog | HBS"
+theme = "hyde"
+
+[params]
+
